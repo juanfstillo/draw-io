@@ -1,9 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T13:04:28.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.1" etag="fYV0F7RGJH7jji-xFNB_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T13:34:42.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LyEVmSec4FpdrVjO2yD-" version="21.7.1" type="github">
   <diagram name="Page-1" id="jxYHNQWUZpeXCxnL6cAA">
-    <mxGraphModel>
+    <mxGraphModel dx="2607" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h1B8o4tM0EarqVkMKWWN-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="600" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="h1B8o4tM0EarqVkMKWWN-4" value="UNIDAD DE MANTENIMIENTO" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="h1B8o4tM0EarqVkMKWWN-3">
+          <mxGeometry width="600" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h1B8o4tM0EarqVkMKWWN-6" value="Gerencia de Línea" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="h1B8o4tM0EarqVkMKWWN-3">
+          <mxGeometry width="600" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h1B8o4tM0EarqVkMKWWN-7" value="Sub Gerencia" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="h1B8o4tM0EarqVkMKWWN-3">
+          <mxGeometry width="600" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h1B8o4tM0EarqVkMKWWN-15" value="Area&amp;nbsp;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="h1B8o4tM0EarqVkMKWWN-3">
+          <mxGeometry y="90" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h1B8o4tM0EarqVkMKWWN-16" value="Sector" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="h1B8o4tM0EarqVkMKWWN-3">
+          <mxGeometry y="120" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h1B8o4tM0EarqVkMKWWN-10" value="Nombre del Area de Trabajo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="320" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
