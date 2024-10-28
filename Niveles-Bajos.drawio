@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="uUUTdlnf8Dj0AM8X8Ja1">
-    <mxGraphModel dx="3033" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4530" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t0VoGf1BZHUFttlE81Uw-1" value="TRABAJO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-1" value="TRABAJOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t0VoGf1BZHUFttlE81Uw-2" value="FRECUENCIA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -30,6 +30,39 @@
         </mxCell>
         <mxCell id="t0VoGf1BZHUFttlE81Uw-10" value="MANTENIMIENTO_CARTILLA_ORDEN_INTERNO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="530" y="430" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-11" value="PLAN_MANTENIMIENTO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-12" value="PLAN_MANTENIMIENTO_ESTADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-13" value="PLAN_MANTENIMIENTO_SEMANAS_ANIO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="700" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-14" value="PLAN_MANTENIMIENTO_TIPO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="600" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-15" value="PLAN_MANTENIMIENTO_SEMANAS_ANIO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="800" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-16" value="ORDEN_TRABAJO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="170" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-17" value="ORDEN_TRABAJO_COMPARTIDAS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1654" y="280" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-18" value="ORDEN TRABAJO ESTADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-19" value="ORDEN_TRABAJO_MATERIALES" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="380" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-20" value="ORDEN_TRABAJO_MEDIDA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="480" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-21" value="ORDEN_TRABAJO_PERSONAL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="570" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
