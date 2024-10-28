@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="uUUTdlnf8Dj0AM8X8Ja1">
-    <mxGraphModel>
+    <mxGraphModel dx="3033" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-1" value="TRABAJO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-2" value="FRECUENCIA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-3" value="TAREAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-5" value="MANTENIMIENTO_CARTILLA_TRABAJOS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-6" value="MANTENIMIENTO_CARTILLA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-7" value="MANTENIMIENTO_CARTILLA_COMPONENTE_GENERICO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-8" value="ESTADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-9" value="MANTENIMIENTO_CARTILLA_FRECUENCIA_TRABAJO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0VoGf1BZHUFttlE81Uw-10" value="MANTENIMIENTO_CARTILLA_ORDEN_INTERNO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="360" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
