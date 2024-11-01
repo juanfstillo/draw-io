@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="NcC5PgYZ-NexvbhuQppV">
-    <mxGraphModel>
+    <mxGraphModel dx="1762" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MA1KdJT02vzCbtP6c7a8-1" value="&lt;u&gt;&lt;b&gt;Descripción&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Transferencia inmediata de una unidad de mantenimiento desde un Area de Trabajo a Otra Area de Trabajo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DEDEDE;" vertex="1" parent="1">
+          <mxGeometry x="50" y="10" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MA1KdJT02vzCbtP6c7a8-7" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Precondiciones&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;-Usuario asociado al sistema de cuentas&lt;/div&gt;&lt;div&gt;- Asociación del usuario con el Area de Trabajo&lt;/div&gt;&lt;div&gt;- Permisos para hacer transferencias&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MA1KdJT02vzCbtP6c7a8-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;PROCESO&amp;nbsp; 1- Transferencias de unidades&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-60" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MA1KdJT02vzCbtP6c7a8-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="10" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MA1KdJT02vzCbtP6c7a8-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;REFERENCIAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MA1KdJT02vzCbtP6c7a8-9">
+          <mxGeometry width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MA1KdJT02vzCbtP6c7a8-3" value="SERVICE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#17D1FF;" vertex="1" parent="MA1KdJT02vzCbtP6c7a8-9">
+          <mxGeometry x="20" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MA1KdJT02vzCbtP6c7a8-4" value="CONTROLLER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF5F0F;" vertex="1" parent="MA1KdJT02vzCbtP6c7a8-9">
+          <mxGeometry x="130" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MA1KdJT02vzCbtP6c7a8-5" value="PAGE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66B3;" vertex="1" parent="MA1KdJT02vzCbtP6c7a8-9">
+          <mxGeometry x="240" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MA1KdJT02vzCbtP6c7a8-6" value="COMPONENT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#45FF9C;" vertex="1" parent="MA1KdJT02vzCbtP6c7a8-9">
+          <mxGeometry x="350" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
